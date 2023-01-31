@@ -1,0 +1,43 @@
+body  {
+    background-image: url(/home/eclipse/Documentos/Proyecto/imgfond/fdd.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: auto;
+    
+    
+}
+
+#novedades {
+    
+    position:relative; top: 10px; left: 410px; 
+   
+}
+#section1 {
+    width: 400px;
+    padding: 15px;
+    margin: 20px;
+    float: left;
+    border-right: thick solid gray;
+    border-left: thick solid gray;
+    left: 2%;
+    text-align: justify;
+    position:relative; top: -30px;
+    font-family: 'EB Garamond', serif;
+}
+#section2 {
+    width: 400px;
+    padding: 15px;
+    margin: 20px;
+    float: left;
+    border-left: thick solid grays;
+    border-right: thick solid gray;
+    left: 2%;
+    text-align:justify;
+    position:relative; top: -30px;
+    font-family: 'EB Garamond', serif;
+}
+.h3{
+    position: static;top: -50px;
+    text-align: center;
+}
