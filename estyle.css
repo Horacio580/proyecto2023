@@ -4,13 +4,37 @@ body  {
     background-attachment: fixed;
     background-size: cover;
     height: auto;
-    
-    
+}
+#opcion li{
+    list-style-type:lower-latin;
+    margin: 15px;
+    padding: 15px;
+    overflow: hidden;
+    float: left;
+    display: block;
+    text-align: center;
+    text-decoration:solid;
+}
+
+
+.descarga1 {
+    position: relative; top: -35px;
+    float: left;
+    margin: 25px;
+    padding: 10px;
+    width: 200px;
+}
+.descarga2 {
+    position: relative; 
+    float: left;
+    margin: 50px;
+    padding: 10px;
+    width: 200px;
 }
 
 #novedades {
     
-    position:relative; top: 10px; left: 410px; 
+    position:relative; top: 10px; left: 150px; 
    
 }
 #section1 {
@@ -30,7 +54,7 @@ body  {
     padding: 15px;
     margin: 20px;
     float: left;
-    border-left: thick solid grays;
+    border-left: thick solid gray;
     border-right: thick solid gray;
     left: 2%;
     text-align:justify;
